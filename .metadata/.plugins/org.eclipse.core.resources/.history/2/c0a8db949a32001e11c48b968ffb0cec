@@ -1,0 +1,10 @@
+package day4;
+
+public class Loopclass {
+        public static void main(String[]agrs) {
+        	int blossom = 7;
+        	int buds = 1;
+        	System.out.println("number of buds"+blossom);
+        	blossom++;
+        }
+}

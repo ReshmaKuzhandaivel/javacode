@@ -1,0 +1,12 @@
+package day4;
+
+public class loop {
+	int day=1;
+	int no_of_classes=10;
+	while(day<=no-of_classes) {
+		System.out.println("I am attending class day"+day);
+		day++;
+		
+	}
+
+}

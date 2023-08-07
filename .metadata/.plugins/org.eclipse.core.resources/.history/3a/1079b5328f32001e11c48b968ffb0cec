@@ -1,0 +1,19 @@
+package day4;
+
+public class Loop {
+	public static void main(String[]args) {
+		int day=1;
+		int no_of_classes=10;
+		while(day<=no_of_classes) {
+			System.out.println("I am attending class day"+day);
+					day++;
+		}
+		int work = 1;
+		do while{
+			System.out.println("work will be done"+ work);
+			work ++;
+		}
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package day4;
+
+public class Loopclass {
+        public static void main(String[]agrs) {
+        	int blossom = 1;
+        	int buds = 7;
+        	while(1<=7) {
+        	System.out.println("number of buds"+blossom);
+        	blossom++;
+        }
+}
+}

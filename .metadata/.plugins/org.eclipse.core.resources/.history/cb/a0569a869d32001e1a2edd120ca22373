@@ -1,0 +1,18 @@
+package day4;
+
+public class Loopclass {
+        public static void main(String[]agrs) {
+        	int blossom = 1;
+        	int buds = 7;
+        	while(blossom<=buds) {
+        	System.out.println("number of buds"+blossom);
+        	blossom++;
+        }
+        	int work = 1;
+        	do {
+        		System.out.println("work will be done"+work);
+        		work++;  
+        	}
+        	while(work<=5);
+}
+}

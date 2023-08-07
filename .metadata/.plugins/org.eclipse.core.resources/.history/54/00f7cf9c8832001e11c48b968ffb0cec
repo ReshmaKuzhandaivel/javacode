@@ -1,0 +1,10 @@
+package day6;
+
+public class loop {
+	int days=1;
+	int no_of_classes){
+		System.out.println("I am attending class day day"+day);
+		day++;
+	}
+
+}

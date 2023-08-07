@@ -1,0 +1,26 @@
+package day4;
+
+public class Loopclass {
+        public static void main(String[]agrs) {
+        	int blossom = 1;
+        	int buds = 7;
+        	while(blossom<=buds) {
+        	System.out.println("number of buds"+blossom);
+        	blossom++;
+        }
+        	int work = 1;
+        	do {
+        		System.out.println("work will be done"+work);
+        		work++;  
+        	}
+        	while(work<=5);
+        	int mark_lb = 5;
+        	int mark_ub = 10;
+        	for( int i=mark_lb;i<=mark_ub; i++)
+        	{
+        		System.out.println("expected mark"+i);
+        		
+        	}
+        		
+}
+}
